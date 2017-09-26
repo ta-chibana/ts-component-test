@@ -1,0 +1,21 @@
+{
+  "name": "component-test",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "react": "^15.6.2",
+    "react-dom": "^15.6.2"
+  },
+  "devDependencies": {
+    "@types/react": "^16.0.7",
+    "@types/react-dom": "^15.5.4",
+    "ts-loader": "^2.3.7",
+    "typescript": "^2.5.2",
+    "webpack": "^3.6.0"
+  }
+}
